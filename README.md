@@ -142,8 +142,8 @@ streamlit run app.py
 
 **Nitin Rawat**
 
-* 🔗 GitHub: https://github.com/your-username
-* 🔗 LinkedIn: https://linkedin.com/in/your-profile
+* 🔗 GitHub: https://github.com/Nitin-Rawat7
+* 🔗 LinkedIn: https://www.linkedin.com/in/nitin-rawat-294683397/
 
 ---
 
